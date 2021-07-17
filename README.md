@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @marknEzgress
+- 👀 I’m interested in Software Engineering and financial software.
+- 🌱 I’m currently building out my frontend skills 
+- 📫 How to reach me markn@ezgress.com
